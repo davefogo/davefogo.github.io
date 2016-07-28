@@ -10,24 +10,24 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Customer Centric Software Engineer</h1>
+     <p>I'm a Software Engineer specialized in Rails, Javascript, and CSS.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love by davefogo.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "davefogo@gmail.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "http://www.facebook.com/davefogo"
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "davefogo"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "http://www.linkedin.com/in/luis-david-forero"
   pinterest:
   reddit:
   soundcloud:
