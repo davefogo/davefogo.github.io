@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
+baseurl: "/portfolio-davefogo" # the subpath of your site, e.g. /blog/
 url: "http://www.domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -31,7 +31,7 @@ theme:
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  "http://stackoverflow.com/users/4708669/davefogo"
   steam:
   tumblr:
   twitter:
@@ -39,7 +39,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-81612704-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
