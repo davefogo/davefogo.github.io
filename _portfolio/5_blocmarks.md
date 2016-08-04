@@ -18,7 +18,7 @@ Along with the large amount of notes I had taken came the bookmarks where the in
 
 The best way to solve my overcrowded bookmark situation was by creating blocmarks. blocmarks allowed me to stash bookmarks according to topics. An easy way to navigate and find what I needed to reference I a few clicks.
 
-I was also aware that many users would carry in a large library of bookmarks. This is why I implemented a csv uploader that allowed users to add the bookmarks they exported from browsers.
+I was also aware that many users would carry in a large library of bookmarks. This is why I implemented a CSV uploader that allowed users to add the bookmarks they exported from browsers.
 
 ## Solution
 
@@ -29,7 +29,7 @@ A feature that blew my mind was the ability to send emails to blocmarks to creat
 
 ## Results
 
-I have found blocmarks so useful that I have deployed it to heroku and use it on a daily basis. When I started the project I was concerned if blocmarks was going to be useable at completion. The large amount of bookmarks people had was going to be a barrier for adoption. The csv uploader and saving bookmarks from received email neutralized this fear instantaneously.
+I have found blocmarks so useful that I have deployed it to heroku and use it on a daily basis. When I started the project I was concerned if blocmarks was going to be useable at completion. The large amount of bookmarks people had was going to be a barrier for adoption. The CSV uploader and saving bookmarks from received email neutralized this fear instantaneously.
 
 ## Conclusion
 

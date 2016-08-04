@@ -23,7 +23,7 @@ Signing up was solved using a custom made authentication and authorization solut
 
   >Commenting, up-voting or down-voting posts was made magical with ajax and its non-obtrusive JS. This really amazed me!
 
-  >Test-Driven-Development (wish I had used this in my first project) was the greatest tool to assure assertive and simple code.
+  >Test-Driven-Development (I wish I'd used this in my first project) was the greatest tool to assure assertive and simple code.
 
 Building an API taught me the now industry standard way of how developers interact with developers.
 
