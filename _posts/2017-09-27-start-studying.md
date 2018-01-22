@@ -1,0 +1,1 @@
+I will use Code Wars, Coder Byte and each bootcamp’s preparation material. Let the hacking begin! I will probably need 200 to 300 hours of preparation to pass their admission process. For me its best to start studying really early before the work day, so I’ll begin studying at 4.45 AM until 6.15 AM, a solid 1 hour and a half of work. 
