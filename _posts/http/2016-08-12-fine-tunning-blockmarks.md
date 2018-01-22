@@ -1,4 +1,0 @@
-Today I spent a few hours finishing my blockmarks project. This Ruby on Rails application will be immensely helpful from now on. It will help me organize the endless amounts of bookmarks I have collected. Refining this app was extremely demanding and rewarding towards the end. I had to parse an email for various fields in many models. I ended up taking email html code apart to learn how to do this. I had to use “stripped-text” for the bookmark url. “stripped-signature” for the topic title. The “subject” for the bookmark description and “from” to pair or create the user who sent the email with the bookmark. These together with some amazing Regex made my application a joy to use.
-This is the only text needed to send an email and create the bookmark.
-
-A neat trick learned from email parsing was that anything that follows — (double hyphen) is considered the signature of an email.
