@@ -1,0 +1,1 @@
+So far I’ve been able to study every day except Sundays. Its awesome how much I’ve been able to learn in such a small time frame. My gut was in the right place when I thought that I needed to solidify my programming foundations. I was lacking in many ways and I wasn’t ready to apply to the in-person bootcamps.
