@@ -1,0 +1,1 @@
+So far all the applications and interviews for the top bootcamps can be done in several languages. Since I last worked with Javascript I think it will be a great for me to prepare using JS. While JS is not so easy to learn when starting its great to go under the hood and prepare for using algorithms to solve problems. There are tons of resources for me to start studying.
