@@ -1,0 +1,1 @@
+I have been considering attending an in person programming bootcamp that teaches its students how to think and work as Software Engineers.In a in-person class it is standard practice to do pair programming most of the time and that is the closest there is to the real world.  Will I go down this path? I think that yes, that is my best option going forward.
