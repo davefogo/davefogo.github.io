@@ -1,0 +1,3 @@
+Now that I’m done with the Web Developer course in Bloc I’ve been thinking about how strong algorithmic aptitude is? After spending a few hours in code wars I noticed my problem solving capacity is not as strong as it could be. I couldn’t get through 5KYU difficulty problems and 6KYU difficulty problems took me a while.
+
+I know that Bloc did not place too much emphasis on algorithms. Their objective is to get a person prepared from 0% coding experience to about 40% in knowledge. This is perfect for someone who wants to be job ready as soon as possible no matter how deep their knowledge is. I want to start my career with a more comprehensive amount of knowledge and a rock solid algorithmic aptitude.
