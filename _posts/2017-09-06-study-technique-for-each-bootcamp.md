@@ -1,0 +1,1 @@
+Each bootcamp has a different focus on what they want their candidates to know. It’s great that each bootcamp has a preparation syllabus for getting into their programs. All the three bootcamps require a technical challenge, a technical interview and a non-technical interview. It’s daunting but when preparation is possible, anything is possible. I will get into these bootcamps!
