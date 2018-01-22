@@ -1,6 +1,6 @@
-I have been refactoring my bookmark application Davemarks to get it working to my liking. Yesterday I uploaded about 1000 bookmarks compiled in CSV format from various sources. When I tried to add new ones after the import I couldn’t save new ones. I kept getting “duplicate key violates unique constraint” which means the database is trying to save records with keys (id) that had already been used. i.e (I was going to save a new entry to id 1, in reality it had to use id 1025). This happens when your database get out of sync.
+I have been refactoring my bookmark application [Davemarks](https://lit-citadel-94662.herokuapp.com/) to get it working to my liking. Yesterday I uploaded about 1000 bookmarks compiled in CSV format from various sources. When I tried to add new ones after the import I couldn’t save new ones. I kept getting “duplicate key violates unique constraint” which means the database is trying to save records with keys (id) that had already been used. i.e (I was going to save a new entry to id 1, in reality it had to use id 1025). This happens when your database get out of sync.
 
-Large imports (we can call 1000 rows large) commonly cause this bug. I looked online and found these links article & stackoverflow that helped me solve the issue.
+Large imports (we can call 1000 rows large) commonly cause this bug. I looked online and found these links [article](http://hcmc.uvic.ca/blogs/index.php?blog=22&p=8105&more=1&c=1&tb=1&pb=1) & [stackoverflow](https://stackoverflow.com/questions/244243/how-to-reset-postgres-primary-key-sequence-when-it-falls-out-of-sync) that helped me solve the issue.
 
 This is what I did:
 
