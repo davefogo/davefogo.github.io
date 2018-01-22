@@ -1,0 +1,3 @@
+So I completed my midterm or midway assessment in Bloc in my first try. I scored 9.5/10. What this means is that Bloc is confident in granting me the “get a job” or “get your money back” warranty. This means that if I don’t get a job within six months of graduation from Bloc they will reimburse the full cost of the tuition. To be able to assure this benefit Bloc needs to assess its students to see if their current level is up to par with their expectations.
+
+Needless to say I am very happy for having completed my assessment. I was quite nervous because the assessment takes form of a formal technical interview with someone I had never met before. Awesome experience and training for the job hunt but also nerve-racking.
