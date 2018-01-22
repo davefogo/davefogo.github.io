@@ -1,0 +1,3 @@
+I’m coming really close to finishing my web development course at Bloc and I’m looking back at all the progress I’ve made. Ever since I started, I have come very far. Since the first html and css code I wrote its amazing I know how to build entire applications on my own. 
+
+The web dev course started by teaching me the basics of html, css and ruby. Then it transitioned into rails and how to build full fledged applications. Towards the second part I learned the basics of Javascript and how to build applications using vanilla JS as well as angular. I even know how to build the back end of a JS program using Firebase. It’s amazing and I am more motivated to learn than ever before.
