@@ -1,0 +1,3 @@
+Its important for Fullstack that their applicants have a good understanding of recursive functions. Up to this point I had never encountered this type of problem. Recursive functions are basically functions that call itself to achieve looping without using conventional loops. It seems this construct is used only in certain cases. Recursion is a great tool and I’m sure it will be needed in my career. 
+
+I applied to Fullstack and received a technical challenge that had to be completed within 75 minutes. I did not feel very comfortable with the problems but I passed it and was offered a technical interview.
