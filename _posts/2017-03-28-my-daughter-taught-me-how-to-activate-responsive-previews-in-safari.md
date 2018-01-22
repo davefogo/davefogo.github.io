@@ -1,0 +1,3 @@
+This morning I left my home computer open while I checked something in the kitchen. When I came back my little girl had her hands all over the keyboard. A safari window was open with minature versions of iPhones, iPads and screen resolution snippets. I had no idea how this happened? (actually I did!).
+
+It turns out my daugther had activated safari’s responsive design monitor. This previews how a site or webapp looks in each of the different Apple devices and a number of screen resolutions. She pressed Alt/Option + Command + R all at the same time. That is a quite a feat. I often get sore when I have to use these combo keybindings.
