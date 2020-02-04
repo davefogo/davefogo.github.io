@@ -10,8 +10,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Customer Centric Software Engineer</h1>
-     <p>I'm a Software Engineer specialized in Rails, Javascript, and CSS.</p>
+     <h1>Software Engineer with a background in Finance</h1>
+     <p>I'm a Software Engineer specialized in Rails and Node.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love by davefogo.
